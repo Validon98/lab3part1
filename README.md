@@ -1,4 +1,4 @@
 - Erik Gunderson
-- ![Image](lab3picture.png)
+- ![Image](lab3picture.jpg)
 - Class of 2018
 - Utility Software
